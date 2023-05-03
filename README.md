@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was created following the [Udemy course](https://www.udemy.com/course/react-redux/)
+
+[Link to video demo](https://drive.google.com/file/d/14TRtbS_m60mALk5Z98d_YVpHZDY_aF9W/view?usp=sharing)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -18,6 +22,10 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run start:server`
+
+Runs the server hosted by json-server containing the User, Album, and Photos data.  
 
 ### `npm run build`
 
