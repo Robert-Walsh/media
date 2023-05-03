@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "name": "Cory Thompson DDS",
+      "id": 2
+    },
+    {
+      "name": "Essie Koss",
+      "id": 3
+    },
+    {
+      "name": "Mark Mayer",
+      "id": 4
+    },
+    {
+      "name": "Stewart Waelchi",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Luxurious Plastic Table",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Steel Gloves",
+      "id": 14
+    },
+    {
+      "userId": 5,
+      "title": "Tasty Granite Chair",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Soft Pants",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Fantastic Metal Cheese",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Steel Gloves",
+      "id": 20
+    },
+    {
+      "userId": 2,
+      "title": "Modern Frozen Fish",
+      "id": 21
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=89659",
+      "id": 7
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65528",
+      "id": 8
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64170",
+      "id": 10
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11015",
+      "id": 11
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6868",
+      "id": 13
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88150",
+      "id": 14
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97402",
+      "id": 15
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5101",
+      "id": 16
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56437",
+      "id": 17
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62400",
+      "id": 19
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11372",
+      "id": 20
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27111",
+      "id": 21
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39373",
+      "id": 22
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91845",
+      "id": 23
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=34411",
+      "id": 24
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8570",
+      "id": 25
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65870",
+      "id": 26
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31186",
+      "id": 27
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11552",
+      "id": 28
+    }
+  ]
+}
